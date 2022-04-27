@@ -1,4 +1,4 @@
-# Assignment 3.1
+# COC Game
 
 ## Actions:
 
